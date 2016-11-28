@@ -1,0 +1,116 @@
+/***** Base Styles *****/
+
+body {
+  font-family: 'Lora', serif;
+  
+}
+
+
+/***** GRID *****/
+
+.image {
+	margin: 20px;
+	float: left;
+
+}
+.contact {
+	margin-right: 340px;
+	margin-bottom: 100px;
+	margin-top: 20px;
+	margin-left: 40px;
+	float: left;
+	clear: right;
+}
+
+#background {
+  background-color: #f7cac9;
+  background-repeat: repeat-x;
+}
+
+
+.contact h1 {
+	font-size: 40px;
+}
+.contact h2, h3, h4 {
+	font-size: 20px;
+}
+.contact h5, h6 {
+	font-size: 20px;
+}
+.dero {
+	width: 1200px;
+	margin: 20px;
+}
+.dero-left {
+	width: 400px;
+	margin: 0 auto;
+	float: left;
+}
+.dero-right {
+	width: 800px;
+	margin: 0 auto;
+	float: left;
+}
+
+.acf {
+	width: 1200px;
+	margin:  20px;
+}
+.acf-left {
+	width: 400px;
+	margin: 0 auto;
+	float: left;
+}
+.acf-right {
+	width: 800px;
+	margin: 0 auto;
+	float: left;
+}
+.college {
+	width: 1200px;
+	margin: 20px;
+}
+.edu-left {
+	width: 400px;
+	margin: 0 auto;
+	float: left;
+}
+.edu-right {
+	width: 800px;
+	margin: 0 auto;
+	float: left;
+}
+.edu h3 {
+	font-size: 20px;
+}
+.edu h4 {
+	font-size: 15px;
+}
+.skills {
+	width: 1200px;
+	margin: 20px;
+}
+.skill-left {
+	width: 400px;
+	margin: 0 auto;
+	float: left;
+}
+.skill-right {
+	width: 800px;
+	margin: 0 auto;
+	float: left;
+}
+.other {
+	width: 1200px;
+	margin: 20px;
+}
+.other-left {
+	width: 400px;
+	margin: 0 auto;
+	float: left;
+}
+.other-right {
+	width: 800px;
+	margin: 0 auto;
+	float: left;
+}
