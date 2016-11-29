@@ -2,7 +2,7 @@
 
 body {
   font-family: 'Lora', serif;
-  
+
 }
 
 
@@ -11,23 +11,21 @@ body {
 .image {
 	margin: 20px;
 	float: left;
+  padding-bottom: 125px
 
 }
 .contact {
-	margin-right: 340px;
+	margin-right: 280px;
 	margin-bottom: 100px;
 	margin-top: 20px;
 	margin-left: 40px;
-	float: left;
-	clear: right;
+	float: right;
+  padding-bottom: 150px
+
 }
-
-#background {
-  background-color: #f7cac9;
-  background-repeat: repeat-x;
+.image .contact {
+  display: inline;
 }
-
-
 .contact h1 {
 	font-size: 40px;
 }
