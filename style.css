@@ -11,7 +11,7 @@ body {
 .image {
 	margin: 20px;
 	float: left;
-  padding-bottom: 125px
+  padding-bottom: 125px;
 
 }
 .contact {
@@ -20,7 +20,7 @@ body {
 	margin-top: 20px;
 	margin-left: 40px;
 	float: right;
-  padding-bottom: 150px
+  padding-bottom: 150px;
 
 }
 .image .contact {
